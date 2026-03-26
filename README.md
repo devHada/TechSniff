@@ -1,18 +1,10 @@
-# ⚗️ TechSniff
+<p align="center">
+  <img src="public/icon128.png" width="80" />
+  <h1 align="center">TechSniff</h1>
+  <p align="center">A Chrome extension built for frontend devs — instantly see what JS frameworks, animation libraries, UI kits and more any website is running.</p>
+</p>
 
-> A Chrome extension built for frontend devs — instantly see what JS frameworks, animation libraries, UI kits and more any website is running.
-
-![TechSniff Preview](/preview.png)
-
----
-
-## The Problem
-
-You land on a website with a buttery smooth scroll animation or a slick transition and your first thought is — _what library is that?_
-
-You open Wappalyzer. It tells you the site uses HTTP/3, Google Font API, and a CDN. Cool. Useless.
-
-**TechSniff is different.** It's built by a frontend dev, for frontend devs. It tells you the site uses GSAP + Lenis + Swiper + Tailwind — the stuff you actually care about.
+<p align="center"> <img src="public/preview.png" /> </p>
 
 ---
 
@@ -142,6 +134,12 @@ Found a site where detection fails? Want a library added?
 **[Open an issue →](https://github.com/devHada/TechSniff/issues)**
 
 All feedback goes directly into the next version.
+
+---
+
+## 💡 Why TechSniff?
+
+Most tech detectors are built for marketers — they tell you what CDN or payment processor a site uses. TechSniff is focused purely on frontend libraries — the animation tools, UI kits, and frameworks that frontend devs actually care about.
 
 ---
 
