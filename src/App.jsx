@@ -193,9 +193,15 @@ export default function App() {
           <span className="text-[9px] font-bold text-white/80">
             {techs.length} {techs.length === 1 ? "tech" : "techs"} found
           </span>
-          <span className="text-[9px] font-bold text-emerald-400/80">
-            frontend focused
-          </span>
+
+          <a
+            href="https://github.com/devHada/TechSniff/issues"
+            target="_blank"
+            rel="noreferrer"
+            className="text-[9px] text-emerald-400/50 hover:text-emerald-400 font-bold transition-colors cursor-pointer"
+          >
+            suggest a tech ↗
+          </a>
         </motion.div>
       )}
     </div>
