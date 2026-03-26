@@ -2,7 +2,7 @@
 
 > A Chrome extension built for frontend devs — instantly see what JS frameworks, animation libraries, UI kits and more any website is running.
 
-![TechSniff Preview](preview.png)
+![TechSniff Preview](/preview.png)
 
 ---
 
